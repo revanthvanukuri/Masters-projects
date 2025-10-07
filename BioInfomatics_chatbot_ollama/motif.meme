@@ -1,0 +1,11 @@
+MEME version 5
+
+ALPHABET= ACDEFGHIKLMNPQRSTVWY
+
+MOTIF MY_MOTIF  # Your motif name
+letter-probability matrix: 20 5  # 20 amino acids × 5 positions
+0.05 0.05 0.05 0.80 0.05  # Position 1: 80% probability of 'D'
+0.10 0.10 0.70 0.05 0.05  # Position 2: 70% probability of 'E'
+0.05 0.05 0.05 0.05 0.80  # Position 3: 80% probability of 'K'
+0.60 0.10 0.10 0.10 0.10  # Position 4: 60% probability of 'R'
+0.05 0.05 0.05 0.80 0.05  # Position 5: 80% probability of 'D'

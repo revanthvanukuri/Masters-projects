@@ -1,0 +1,10 @@
+Fetch AlphaFold results for this Q5VSL9
+get go annotation for P04637
+get protein interaction for TP53 BRCA1
+What is the function of P04637
+What are binding sites of P04637
+What are subcellular locations of P04637
+PTM prediction for P04637
+perform blast search for protein P05067
+
+ 
